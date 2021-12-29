@@ -1,0 +1,23 @@
+Zadanie.
+
+1. Proszę napisać w formularz dodawania kontrahenta który zawiera:
+
+a) Imię
+b) Nazwisko
+c) Typ ( Osoba lub Firma)
+d) Numer identyfikacyjny ( jeśli osoba to Pesel lub jeśli firma to NIP)
+e) Zdjęcie ( Podgląd ma wyświetlić po wybraniu pliku z dysku)
+
+2. Formularz ma walidować dane Numeru identyfikacyjnego:
+
+- Czy wprowadzono poprawny PESEL/ NIP
+
+3. Zdjęcie:
+
+- Format JPG/JPEG
+- Acpect ratio 1:1 (zdjęcie w kwadracie)
+
+Dodatkowo Submit Forma ma wykonać na końcówkę  https://localhost:60001/Contractor/Save   i być jako POST Oczywiście ta końcówka zwróci kod błędu 404 i ma się wyświetlić komunikat użytkownikowi "Nie znaleziono metody zapisu"
+
+Aplikację proszę wrzucić na git huba i przesłać mi link w odpowiedzi do dnia: 2021-12-29. Proszę do końca 2021-12-21  informację mailową, czy podejmuje Pan wyzwanie. Jeśli z jakiegoś powodu ten termin nie może być dotrzymany (np. wyjazd na urlop) proszę o informację zwrotną, żebyśmy mogli ustalić indywidualny termin.
+Jeśli będą jakiekolwiek problemy z wykonaniem jakiegoś elementu zadania proszę się nie przejmować i wysłać tyle na ile się potrafi.
